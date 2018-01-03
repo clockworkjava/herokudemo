@@ -7,4 +7,7 @@ To deploy this project on Heroku platform
 
 To add database support on heroku
 
-1. >heroku addons:create heroku-postgresql   
+1. >heroku addons:create heroku-postgresql  
+
+
+Screencast (in polish): http://clockworkjava.pl/?p=15
